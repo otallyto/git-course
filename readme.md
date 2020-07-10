@@ -14,5 +14,10 @@ Esse é um repositório teste para ensinar como o git funciona
 ```git reset --mixed HASH```
 #### finge que o commit nunca existiu
 ```git reset --hard HASH```
+#### criar uma nova branch
+```git checkout -b <nome>```
+#### faz o merge de uma branch com outra
+````git merger <nome>```
+
 
 Saiba mais em [github.com/otallyto](http://github.com/otallyto)
