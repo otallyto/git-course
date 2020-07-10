@@ -17,7 +17,7 @@ Esse é um repositório teste para ensinar como o git funciona
 #### criar uma nova branch
 ```git checkout -b <nome>```
 #### faz o merge de uma branch com outra
-````git merger <nome>```
+```git merge <nome>```
 
 
 Saiba mais em [github.com/otallyto](http://github.com/otallyto)
